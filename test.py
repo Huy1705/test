@@ -5,3 +5,5 @@ def featureA():
 def featureB():
     print("This is feature B")
     
+def featureC():
+    print("This is a new feature.")
