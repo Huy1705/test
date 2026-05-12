@@ -9,3 +9,5 @@ def featureC():
     print("This is a new feature.")
 def featureD():
     print("test")
+def foo():
+    print("foo")
